@@ -1,0 +1,22 @@
+{
+    "@@locale": "en",
+    "loginTitle": "Login",
+    "email": "Email",
+    "password": "Password",
+    "signupTitle": "Sign up",
+    "signupButton": "Sign up",
+    "goWithoutLogin": "Enter without register",
+    "goBackToLogin": "Back to Login",
+    "origin": "Origin",
+    "lastKnownLocation": "Last known location",
+    "signupFailureMessage": "error",
+    "quotes": "Quotes",
+    "favorites": "Favorites",
+    "home": "Home",
+    "signupFailureMessage": "Error signing up",
+    "invalidData": "Authentication Error. Check if the data entered is correct.",
+    "incorrectMatchPassword": "Passwords do not match.",
+    "alive": "Alive",
+    "dead": "Dead",
+    "unknown": "Unknown"
+}

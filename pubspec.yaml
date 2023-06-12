@@ -1,0 +1,41 @@
+name: rick_morty_flutter_app
+description: hola
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  animate_do: ^3.0.2
+  audioplayers: ^4.1.0
+  bloc: ^8.1.1
+  cloud_firestore: ^4.7.1
+  dio: ^5.1.2
+  equatable: ^2.0.5
+  firebase_auth: ^4.6.1
+  firebase_core: ^2.13.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_dotenv: ^5.0.2
+  flutter_launcher_icons: ^0.13.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash: ^2.3.0
+  formz: ^0.6.0
+  go_router: ^7.1.1
+  intl: ^0.18.0
+  lottie: ^2.3.2
+
+dev_dependencies:
+  very_good_analysis: ^4.0.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/lottie/
+    - assets/sound/
+    - .env
+  uses-material-design: true
+  generate: true

@@ -1,0 +1,22 @@
+{
+    "@@locale": "es",
+    "loginTitle": "Login",
+    "email": "Correo",
+    "password": "Contraseña",
+    "signupTitle": "Registro",
+    "signupButton": "Registrarse",
+    "goWithoutLogin": "Entrar sin registrarse",
+    "goBackToLogin": "Volver al Login",
+    "origin": "Origen",
+    "lastKnownLocation": "Ultima ubicación conocida",
+    "signupFailureMessage": "error",
+    "quotes": "Citas",
+    "favorites": "Favoritos",
+    "home": "Home",
+    "signupFailureMessage" : "Error al registrarse",
+    "invalidData": "Error de autenticación. Comprueba si los datos introducidos son correctos.",
+    "incorrectMatchPassword": "Las contraseñas no coinciden.",
+    "alive": "Vivo",
+    "dead": "Muerto",
+    "unknown": "Desconocido"
+}
